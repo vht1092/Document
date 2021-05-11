@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <HSoKhaiThue>
+        <TTinChung>
+            <TTinDVu>
+                <maDVu>ICANHAN</maDVu>
+                <tenDVu>ICANHAN</tenDVu>
+                <pbanDVu>1.0</pbanDVu>
+                <ttinNhaCCapDVu>ICANHAN-TCT</ttinNhaCCapDVu>
+            </TTinDVu>
+            <TTinTKhaiThue>
+                <TKhaiThue>
+                    <maTKhai>392</maTKhai>
+                    <tenTKhai>Tờ khai quyết toán thuế thu nhập cá nhân 02/QTT-TNCN (TT92/2015)</tenTKhai>
+                    <moTaBMau>Áp dụng cho cá nhân cư trú có thu nhập từ tiền lương, tiền công</moTaBMau>
+                    <pbanTKhaiXML>2.1.6</pbanTKhaiXML>
+                    <loaiTKhai>B</loaiTKhai>
+                    <soLan>1</soLan>
+                    <KyKKhaiThue>
+                        <kieuKy>Y</kieuKy>
+                        <kyKKhai>2019</kyKKhai>
+                        <kyKKhaiTuNgay></kyKKhaiTuNgay>
+                        <kyKKhaiDenNgay></kyKKhaiDenNgay>
+                        <kyKKhaiTuThang>01/2019</kyKKhaiTuThang>
+                        <kyKKhaiDenThang>12/2019</kyKKhaiDenThang>
+                    </KyKKhaiThue>
+                    <maCQTNoiNop>70100</maCQTNoiNop>
+                    <tenCQTNoiNop>Cục Thuế Thành phố Hồ Chí Minh</tenCQTNoiNop>
+                    <ngayLapTKhai>14/08/2020</ngayLapTKhai>
+                    <GiaHan>
+                        <maLyDoGiaHan></maLyDoGiaHan>
+                        <lyDoGiaHan></lyDoGiaHan>
+                    </GiaHan>
+                    <nguoiKy></nguoiKy>
+                    <ngayKy>2020-08-14</ngayKy>
+                    <nganhNgheKD></nganhNgheKD>
+                </TKhaiThue>
+                <NNT>
+                    <mst>8339006947</mst>
+                    <tenNNT>Võ Hoàng Tân</tenNNT>
+                    <dchiNNT>Bả Canh, Phường Đập Đá</dchiNNT>
+                    <phuongXa></phuongXa>
+                    <maHuyenNNT>50717</maHuyenNNT>
+                    <tenHuyenNNT>Huyện An Nhơn</tenHuyenNNT>
+                    <maTinhNNT>507</maTinhNNT>
+                    <tenTinhNNT>Bình Định</tenTinhNNT>
+                    <dthoaiNNT>0963137131</dthoaiNNT>
+                    <faxNNT></faxNNT>
+                    <emailNNT>vht1092@gmail.com</emailNNT>
+                </NNT>
+            </TTinTKhaiThue>
+        </TTinChung>
+        <CTieuTKhaiChinh>
+            <Header>
+                <ct12>15124881992</ct12>
+                <ct12a>NH Saigon (SCB) _ CN Cong Quynh</ct12a>
+            </Header>
+            <ct22>205550596</ct22>
+            <ct23>205550596</ct23>
+            <ct24>0</ct24>
+            <ct25>0</ct25>
+            <ct26>0</ct26>
+            <ct27>2</ct27>
+            <ct28>204788700</ct28>
+            <ct29>108000000</ct29>
+            <ct30>86400000</ct30>
+            <ct31>0</ct31>
+            <ct32>10388700</ct32>
+            <ct33>0</ct33>
+            <ct34>761896</ct34>
+            <ct35>38095</ct35>
+            <ct36>4088929</ct36>
+            <ct37>4088929</ct37>
+            <ct38>0</ct38>
+            <ct39>0</ct39>
+            <ct40>0</ct40>
+            <ct41>0</ct41>
+            <ct42>0</ct42>
+            <ct43>0</ct43>
+            <ct44>0</ct44>
+            <ct45>4050834</ct45>
+            <ct46>4050834</ct46>
+            <ct47>4050834</ct47>
+            <ct48>0</ct48>
+            <ct49>0</ct49>
+        </CTieuTKhaiChinh>
+        <PLuc>
+            <PLuc_02_1_BK_QTT_TNCN>
+                <Header>
+                    <ct04 xsi:nil="true"/>
+                    <ct05 xsi:nil="true"/>
+                    <ct06 xsi:nil="true"/>
+                </Header>
+                <NPTCoCMND_MST>
+                    <CTiet>
+                        <ct10>Hà Thị Nga</ct10>
+                        <ct11>1958-01-01</ct11>
+                        <ct12>8290910034</ct12>
+                        <ct13_ma>01</ct13_ma>
+                        <ct13_ten>Việt Nam</ct13_ten>
+                        <ct14>210905490</ct14>
+                        <ct15_ma>03</ct15_ma>
+                        <ct15_ten>Cha/Mẹ</ct15_ten>
+                        <ct16>01/2019</ct16>
+                        <ct17>12/2019</ct17>
+                    </CTiet>
+                    <CTiet>
+                        <ct10>Nguyễn Thị Mai</ct10>
+                        <ct11>1935-10-23</ct11>
+                        <ct12>8479840158</ct12>
+                        <ct13_ma>01</ct13_ma>
+                        <ct13_ten>Việt Nam</ct13_ten>
+                        <ct14>210248572</ct14>
+                        <ct15_ma>04</ct15_ma>
+                        <ct15_ten>Khác</ct15_ten>
+                        <ct16>01/2019</ct16>
+                        <ct17>12/2019</ct17>
+                    </CTiet>
+                </NPTCoCMND_MST>
+                <NPTChuaCoCMND_MST>
+                    <CTiet>
+                        <ct19 xsi:nil="true"/>
+                        <ct20 xsi:nil="true"/>
+                        <ct21 xsi:nil="true"/>
+                        <ct22 xsi:nil="true"/>
+                        <ct23_ma xsi:nil="true"/>
+                        <ct23_ten xsi:nil="true"/>
+                        <ct24_ma xsi:nil="true"/>
+                        <ct24_ten xsi:nil="true"/>
+                        <ct25_ma xsi:nil="true"/>
+                        <ct25_ten xsi:nil="true"/>
+                        <ct26_ma xsi:nil="true"/>
+                        <ct26_ten xsi:nil="true"/>
+                        <ct27_ma xsi:nil="true"/>
+                        <ct27_ten xsi:nil="true"/>
+                        <ct28_ma xsi:nil="true"/>
+                        <ct28_ten xsi:nil="true"/>
+                        <ct29 xsi:nil="true"/>
+                        <ct30 xsi:nil="true"/>
+                    </CTiet>
+                </NPTChuaCoCMND_MST>
+            </PLuc_02_1_BK_QTT_TNCN>
+        </PLuc>
+    </HSoKhaiThue>
+</HSoThueDTu>
