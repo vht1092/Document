@@ -1,0 +1,963 @@
+﻿Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Attempt to stop service ServicesINCTF.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Attempt to stop service ServicesINCTF.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Attempt to stop service ServicesINCTF.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Attempt to stop service ServicesINCTF.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Attempt to stop service ServicesINCTF.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
+Installing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Installing service ServicesINCTF...
+Service ServicesINCTF has been successfully installed.
+Creating EventLog source ServicesINCTF in log Application...
+Committing assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe'.
+Affected parameters are:
+   assemblypath = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.exe
+   logfile = D:\workspce_vs1\ServicesINCTF\ServicesINCTF\bin\Debug\ServicesINCTF.InstallLog
+   logtoconsole = 
+Removing EventLog source ServicesINCTF.
+Service ServicesINCTF is being removed from the system...
+Service ServicesINCTF was successfully removed from the system.
